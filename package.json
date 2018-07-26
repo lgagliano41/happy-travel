@@ -1,0 +1,27 @@
+{
+  "name": "happy-travel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lgagliano41/happy-travel.git"
+  },
+  "author": "gagliano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lgagliano41/happy-travel/issues"
+  },
+  "homepage": "https://github.com/lgagliano41/happy-travel#readme",
+  "devDependencies": {
+    "autoprefixer": "^9.0.1",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^7.0.1",
+    "gulp-watch": "^5.0.1",
+    "postcss-nested": "^3.0.0",
+    "postcss-simple-vars": "^4.1.0"
+  }
+}
